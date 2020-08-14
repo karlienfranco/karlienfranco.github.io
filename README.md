@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Karlien Franco's github
 
-You can use the [editor on GitHub](https://github.com/karlienfranco/karlienfranco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my github. I am a postdoc in linguistics at [QLVL](https://www.arts.kuleuven.be/ling/qlvl) at [KU Leuven](www.kuleuven.be). You can find more information about me and my work on [my personal website](www.karlienfranco.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nephological Semantics
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karlienfranco/karlienfranco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am currently working on the [Nephological Semantics project](https://www.arts.kuleuven.be/ling/qlvl/projects/current/nephological-semantics). I am focussing on using computational methods of distributional corpus linguistics to analyze lexical variation. You can find the intermediate results of three test concepts [here](analysis_20200812.html).
